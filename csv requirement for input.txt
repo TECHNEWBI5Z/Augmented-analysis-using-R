@@ -1,0 +1,7 @@
+Input File reqirement
+
+Name of the file: analysis
+No. Blocks & block column name: 3 & ?BLOCK?
+No. Treatments and treatment column name: 24 & ?Code?
+No. variables and name of variables: 4 & ?X1, X2, X3, X4?
+No. Checks: 2
